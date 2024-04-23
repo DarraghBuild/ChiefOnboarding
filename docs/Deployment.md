@@ -142,9 +142,7 @@ That's all!
 
 ## Deploy with Heroku
 Please note: you will need to have an account at Heroku for this to work. Hosting at Heroku is more expensive than hosting it with Docker on a VPS. We will set it up to use two Hobby Dynos (which will be $14/month). A database upgrade might be necessary later on.
-
-You will have to login to Heroku or create an account there. Then, you will need to click this link to start the process: [https://heroku.com/deploy?template=https://github.com/chiefonboarding/ChiefOnboarding](https://heroku.com/deploy?template=https://github.com/chiefonboarding/ChiefOnboarding).
-Heroku will then ask you for some details. Please be careful to put them in correctly, otherwise your app will not start.
+Build.io
 
 The **app name** can be anything you want (so long it is available).
 
